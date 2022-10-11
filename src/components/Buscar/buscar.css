@@ -1,0 +1,14 @@
+.buscar{
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #fff;
+    width:500px;
+    margin-left: 20px;
+}
+
+.buscarimg{
+    color:white;
+    width: 20px;
+}

@@ -1,0 +1,19 @@
+.fogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 8px;
+    gap: 4px;
+    background: rgba(255, 255, 255, 0.32);
+    backdrop-filter: blur(2px);    
+    border-radius: 100px;
+    margin-right: 20px;
+}
+.consecutivo{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+    color: white;
+}

@@ -1,0 +1,18 @@
+.body{
+    width: 100%;
+    background-color: #2C2C2E;
+    height: 100vh;
+}
+.upper{
+    align-items: center;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+
+}
+.status{
+    display: flex;
+    justify-content:right;
+    align-items: row;
+    margin-right: 30px;
+}
