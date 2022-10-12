@@ -7,7 +7,9 @@
     gap: 4px;
     background: rgba(255, 255, 255, 0.32);
     backdrop-filter: blur(2px);    
-    border-radius: 100px;
+    border-radius: 20px;
+    width: 52px;
+    height: 26px;
 }
 .pontuacao{
     font-style: normal;
