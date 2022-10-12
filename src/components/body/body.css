@@ -10,9 +10,21 @@
     justify-content: space-between;
 
 }
-.status{
-    display: flex;
-    justify-content:right;
-    align-items: row;
-    margin-right: 30px;
+
+.articles{
+    padding: 20px;
+}
+
+.introtext{
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+padding: 20px;
+/* or 127% */
+
+
+/* White / 100 */
+
+color: #FFFFFF;
 }
