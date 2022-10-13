@@ -1,0 +1,42 @@
+[
+    {
+      "assunto": "Adicao",
+      "materia": "Matematica",
+      "idmateria": "1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#FFAB01",
+      "corsecundaria": "#D29518",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/wF4GpyD.png"
+    }
+    ,
+    {
+      "assunto": "Canto",
+      "materia": "Arte",
+      "idmateria": "2",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#B18CFE",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/a8pQbnO.png"
+    },
+    {
+      "assunto": "Gramatica",
+      "materia": "Portugues",
+      "idmateria": "3",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#FE6250",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/TluIF6x.png"
+    },
+    {
+      "assunto": "Protons",
+      "materia": "Ciencia",
+      "idmateria": "4",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#EE719E",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hsr6KoW.png"
+    }
+  
+  ]
+  

@@ -1,7 +1,8 @@
 .body{
     width: 100%;
     background-color: #2C2C2E;
-    height: 100vh;
+    height: 100%;
+    padding-bottom: 20px;
 }
 .upper{
     align-items: center;
@@ -10,9 +11,17 @@
     justify-content: space-between;
 
 }
-.status{
-    display: flex;
-    justify-content:right;
-    align-items: row;
-    margin-right: 30px;
+
+.articles{
+    padding: 20px;
 }
+
+.introtext{
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+padding: 20px;
+color: #FFFFFF;
+}
+

@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  scrollbar-width: 50px;
+  scrollbar-color: #48484A rgba(255,255,255,0.32);
+  
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  height:10px;
+  width: 10px; 
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba(255,255,255,0.32);
+
+  
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #48484A;
+
+}
+
+* {
+  scrollbar-color: #48484A white;
+  border-radius: 0px;
+}

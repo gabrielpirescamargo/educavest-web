@@ -1,0 +1,35 @@
+
+    [
+    {
+    "assunto": "Adicao",
+    "materia": "Matematica",
+    "idmateria": "1",
+    "tipo": "Aula",
+    "nome": "Aula 1",
+    "cor": "#FFAB01",
+    "pontuacao": "100",
+    "icone": "https://i.imgur.com/wF4GpyD.png"
+  }
+  ,
+  {
+    "assunto": "Adicao",
+    "materia": "Matematica",
+    "idmateria": "1",
+    "tipo": "Exercicio",
+    "nome": "Exercicio 1",
+    "cor": "#FFAB01",
+    "pontuacao": "100",
+    "icone": "https://i.imgur.com/wF4GpyD.png"
+  }
+  ,
+  {
+    "assunto": "Canto",
+    "materia": "Arte",
+    "idmateria": "2",
+    "tipo": "Aula",
+    "nome": "Aula 1",
+    "cor": "#FFAB01",
+    "pontuacao": "100",
+    "icone": "https://i.imgur.com/PkYpUez.png"
+  }
+]

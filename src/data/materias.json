@@ -1,0 +1,40 @@
+[
+    
+    {
+    "materia": "Matematica",
+    "cor": "#FFAB01",
+    "icone": "https://i.imgur.com/5n8PlmW.png"
+   }
+   ,
+  {
+    "materia": "Arte",
+    "cor": "#B18CFE",
+    "icone": "https://i.imgur.com/PkYpUez.png"
+   },
+  {
+    "materia": "Portugues",
+    "cor": "#FE6250",
+    "icone": "https://i.imgur.com/TluIF6x.png"
+   }
+   ,
+  {
+    "materia": "Ciencia",
+    "cor": "#EE719E",
+    "icone": "https://i.imgur.com/hsr6KoW.png"
+   }
+   ,
+  {
+    "materia": "Geografia",
+    "cor": "#BB8A51",
+    "icone": "https://i.imgur.com/yIccbGA.png"
+   }
+   ,
+  {
+    "materia": "Historia",
+    "cor": "#44B198",
+    "icone": "https://i.imgur.com/IMPKxuN.png"
+   }
+  
+  
+   
+  ]
