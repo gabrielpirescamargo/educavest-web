@@ -16,6 +16,7 @@
 }
 .logotext{
     text-decoration: none;
+    display: flex;
     font-weight: bold;
     color: #fff;
     font-size: 25px;
@@ -35,4 +36,21 @@
     text-decoration: none;
     color: white;
 
+}
+.usuario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+}
+.usuarionome{
+  
+        user-select: none;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 13px;
+        line-height: 18px;
+        color: white;
+    
 }

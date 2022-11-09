@@ -11,6 +11,7 @@ border-radius: 8px;
     flex-direction: column;    
     align-items: center;
     justify-content: space-around;
+    cursor: pointer;
 }
 .cards{
     margin-top: 20px;
@@ -32,9 +33,7 @@ border-radius: 8px;
 .horizontal2{
     display: flex;
     flex-direction: row;
-    padding-left: 10px;
-    
-    
+    padding-left: 10px; 
 }
 .aulaassunto{
     font-style: normal;
@@ -42,7 +41,6 @@ font-weight: 700;
 font-size: 22px;
 line-height: 28px;  
 color: #FFFFFF;
-
 }
 .introrecente{
     font-style: normal;

@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import './header.css'
 import perfil from '../../assets/perfil.png'
 import Buscar from '../Buscar/Buscar';
+import Fogo from '../Fogo/Fogo'
+import Pontos from '../Pontos/Pontos'
+import user from '../../data/usuario.json'
 
 export default class Header extends Component {
     render(){
@@ -9,16 +12,19 @@ export default class Header extends Component {
 
         <div className='header'>
             <div href='#' className='logo'>
-                <a href='www.google.com' className='logotext'>Educavest</a>
-                <Buscar/>
+                <a href='#' className='logotext'><div className='educa'>Educa</div> <div className='vest'>vest</div></a>
+               
             </div>
+            <Buscar/>
             <div className='links'>
                 
-                <a className='linkstext' href='#'>Home</a>
-                <a className='linkstext' href='#'>Matérias</a>
-                <a className='linkstext' href='#'>t3este5</a>
-                <a className='linkstext' href='#'>t3este6</a>
-                <img src={perfil} width={20}></img>
+                <Fogo fogo={user.fogo}/>
+                <Pontos pontos={user.pontos}/>
+                <div className='usuario'>
+                  <img src={perfil} width={50}></img>
+                  <text className='usuarionome'>{user.nome}</text>
+                </div>
+                
             </div>
             
         </div>

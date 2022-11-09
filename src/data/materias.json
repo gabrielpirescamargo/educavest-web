@@ -1,26 +1,20 @@
 [
     
     {
-    "materia": "Matematica",
+    "materia": "Matemática",
     "cor": "#FFAB01",
     "icone": "https://i.imgur.com/5n8PlmW.png"
    }
    ,
   {
-    "materia": "Arte",
+    "materia": "Artes",
     "cor": "#B18CFE",
     "icone": "https://i.imgur.com/PkYpUez.png"
    },
   {
-    "materia": "Portugues",
+    "materia": "Português ",
     "cor": "#FE6250",
     "icone": "https://i.imgur.com/TluIF6x.png"
-   }
-   ,
-  {
-    "materia": "Ciencia",
-    "cor": "#EE719E",
-    "icone": "https://i.imgur.com/hsr6KoW.png"
    }
    ,
   {
@@ -30,10 +24,53 @@
    }
    ,
   {
-    "materia": "Historia",
+    "materia": "História",
     "cor": "#44B198",
     "icone": "https://i.imgur.com/IMPKxuN.png"
    }
+   ,
+  {
+    "materia": "Biologia",
+    "cor": "#839A20",
+    "icone": "https://i.imgur.com/pI7Shmv.png"
+   }
+   ,
+  {
+    "materia": "Química",
+    "cor": "#EE719E",
+    "icone": "https://i.imgur.com/hsr6KoW.png"
+   }
+   ,
+  {
+    "materia": "Física",
+    "cor": "#6FA9BA",
+    "icone": "https://i.imgur.com/hu8Ck0X.png"
+   }
+   ,
+  {
+    "materia": "Filosofia",
+    "cor": "#9F6B18",
+    "icone": "https://i.imgur.com/kXvPwuB.png"
+   }
+   ,
+  {
+    "materia": "Sociologia",
+    "cor": "#464646",
+    "icone": "https://i.imgur.com/oN6O1Ij.png"
+   }
+   ,
+  {
+    "materia": "Literatura",
+    "cor": "#3B5E8E",
+    "icone": "https://i.imgur.com/0JS3Gry.png"
+   }
+   ,
+  {
+    "materia": "Inglês",
+    "cor": "#C00355",
+    "icone": "https://i.imgur.com/Pqo4Uq7.png"
+   }
+   
   
   
    

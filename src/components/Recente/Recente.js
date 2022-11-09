@@ -8,7 +8,6 @@ import conteudos from '../../data/conteudos.json'
 import aulas from '../../data/aulas.json'
 import materias from '../../data/materias.json'
 
-
 Modal.setAppElement('#root')
 
 
@@ -38,7 +37,8 @@ export default function Recente() {
       border: '0px',
       background: '#2C2C2E',
       display: 'flex',
-      flexWrap: 'wrap'
+      flexWrap: 'wrap',
+      zIndex: 99
 
 
     },
@@ -47,6 +47,64 @@ export default function Recente() {
       background: 'rgba(0,0,0,0.44)',
     }
   }
+ 
+
+  const cleanPercentage = (percentage) => {
+    const isNegativeOrNaN = !Number.isFinite(+percentage) || percentage < 0; // we can set non-numbers to 0 here
+    const isTooHigh = percentage > 100;
+    return isNegativeOrNaN ? 0 : isTooHigh ? 100 : +percentage;
+  };
+ 
+  const Circle = ({ colour, percentage, fill }) => {
+    const r = 40;
+    const circ = 2 * Math.PI * r;
+    const strokePct = ((100 - percentage) * circ) / 100; // where stroke will start, e.g. from 15% to 100%.
+    return (
+      <circle
+        r={r}
+        cx={150}
+        cy={50}
+        fill={fill}
+        stroke={strokePct !== circ ? colour : ""} // remove colour as 0% sets full circumference
+        strokeWidth={"0.5rem"}
+        strokeDasharray={circ}
+        
+
+        
+        strokeDashoffset={percentage ? strokePct : 0}
+      ></circle>
+    );
+  };
+  
+  const Text = ({ percentage }) => {
+    return (
+      <text
+        x="50%"
+        y="50%"
+        dominantBaseline="central"
+        textAnchor="middle"
+        fontSize={"2rem"}
+        className='textpercent'
+      >
+        {percentage}%
+      </text>
+    );
+  };
+  
+  const Pie = ({ percentage, colour , fill}) => {
+    const pct = cleanPercentage(percentage);
+
+    return (
+      <svg width={100} height={100} >
+        <g transform={`rotate(-90 ${"100 100"})`} >
+          <Circle colour="#2C2C2E" fill={fill} />
+          <Circle colour={colour} percentage={pct} fill={'transparent'} />
+        </g>
+        <Text percentage={pct} />
+      </svg>
+    );
+  };
+
   return (
 
     <div className='recente'>
@@ -63,14 +121,21 @@ export default function Recente() {
             console.log(modalData)
           }}
             className='card' style={{ backgroundColor: r.cor }}>
-            <div className='horizontal'>
-              <text className='aulaassunto'>{r.assunto}</text>
-              <Pontos pontos={r.pontuacao} />
-            </div>
-            <div className='horizontal2'>
-              <img className='aulaicone' src={r.icone}></img>
+            <div className='horizontalrecente'>
+              <div className='esquerda'>
+                <text className='aulaassunto'>{r.assunto}</text>
+                <Pie percentage={r.concluido} colour={r.cor2} fill={r.cor}/>
 
+              </div>
+              <div className='direita'>
+                <Pontos pontos={r.pontuacao} />
+                <img className='aulaicone' src={r.icone}></img>
+              </div>
             </div>
+
+
+
+
 
           </div>
 
@@ -109,31 +174,36 @@ export default function Recente() {
 
 
                   conteudos.map((r, i) => {
-                   if (modalData.assunto === r.assunto)  { 
-                    return(
+                    if (modalData.assunto === r.assunto) {
+                      return (
+
+                      <a href={r.link}>
+                        <div key={i}
+                       
+                          className='conteudo' style={{ backgroundColor: '#48484A' }}
+                          
+                          >
 
 
-                      <div key={i}
-                        className='conteudo' style={{ backgroundColor: '#48484A' }}>
-
-
-                        <div className='horizontalconteudo'>
-                          <img className='conteudoicone' src={r.icone}></img>
-                          <div className='vertical'>
-                            <text className='aulaassunto'>{r.nome}</text>
-                            <Pontos pontos={r.pontuacao} />
+                          <div className='horizontalconteudo'>
+                            <img className='conteudoicone' src={r.icone}></img>
+                            <div className='vertical'>
+                              <text className='aulaassunto'>{r.nome}</text>
+                              <Pontos pontos={r.pontuacao} />
+                            </div>
                           </div>
+
+                          <div className='play' >
+                            play
+                          </div>
+
+
+
+
                         </div>
-
-                        <div className='play'>
-                          play
-                        </div>
-
-
-
-
-                      </div>
-                    ) } 
+                        </a>
+                      )
+                    }
 
 
                   })
