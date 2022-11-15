@@ -1,0 +1,75 @@
+.cardrecomendados{
+    min-width: 165px;
+height: 236px;
+max-width: 165px;
+height: 236px;
+
+background: #FFAB01;
+border-radius: 8px;
+    flex-wrap: nowrap;
+    margin-right: 30px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.cardsRecomendados{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.aulaicone{
+    width: 100px;
+    height: 100px;
+}
+.horizontal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.horizontal2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px; 
+}
+.aulaassunto{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px; 
+color: #FFFFFF;
+word-wrap: break-word;
+text-align: center;
+
+}
+.introrecente{
+    font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+color: #E5E5EA;
+user-select: none;
+}
+
+.recente{
+    margin: 20px;
+}
+.search{
+   
+    background: #2C2C2E;
+    border: 1px solid #DCDCDC;
+    border-radius: 68px;
+    color: white;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+}   

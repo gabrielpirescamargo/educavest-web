@@ -1,0 +1,404 @@
+[
+    
+    {
+      "assunto": "Microbiologia",
+      "materia": "Biologia",
+      "idmateria": "1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#839A20",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/pI7Shmv.png",
+      "concluido": "26"
+    }
+    ,
+    {
+      "assunto": "Citologia",
+      "materia": "Biologia",
+      "idmateria": "1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#839A20",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/pI7Shmv.png",
+      "concluido": "48"
+      
+    }
+    ,
+    {
+      "assunto": "Bioquímica",
+      "materia": "Biologia",
+      "idmateria": "1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#839A20",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/pI7Shmv.png",
+      "concluido": "98"
+    }
+    ,
+    {
+      "assunto": "Ecologia",
+      "materia": "Biologia",
+      "idmateria": "1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#839A20",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/pI7Shmv.png",
+      "concluido": "100"
+    }
+    ,
+    {
+      "assunto": "Fisiologia",
+      "materia": "Biologia",
+      "idmateria": "1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#839A20",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/pI7Shmv.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Estrutura atômica",
+      "materia": "Química",
+      "idmateria": "2",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#EE719E",
+      "cor2": "#FF9FC1",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hsr6KoW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Tabela periódica",
+      "materia": "Química",
+      "idmateria": "2",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#EE719E",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hsr6KoW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Gases",
+      "materia": "Química",
+      "idmateria": "2",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#EE719E",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hsr6KoW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Química orgânica ",
+      "materia": "Química",
+      "idmateria": "2",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#EE719E",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hsr6KoW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Acidos e bases ",
+      "materia": "Química",
+      "idmateria": "2",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#EE719E",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hsr6KoW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Logaritmos",
+      "materia": "Matemática",
+      "idmateria": "3",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#FFAB01",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/5n8PlmW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Adição e subtração",
+      "materia": "Matemática",
+      "idmateria": "3",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#FFAB01",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/5n8PlmW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Conjuntos",
+      "materia": "Matemática",
+      "idmateria": "3",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#FFAB01",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/5n8PlmW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Combinatória",
+      "materia": "Matemática",
+      "idmateria": "3",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#FFAB01",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/5n8PlmW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Matrizes",
+      "materia": "Matemática",
+      "idmateria": "3",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#FFAB01",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/5n8PlmW.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Cinemática",
+      "materia": "Física",
+      "idmateria": "4",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#6FA9BA",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hu8Ck0X.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Gravitação",
+      "materia": "Física",
+      "idmateria": "4",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#6FA9BA",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hu8Ck0X.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Imã",
+      "materia": "Física",
+      "idmateria": "4",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#6FA9BA",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hu8Ck0X.png",
+      "concluido": "10"
+    }
+    
+    ,
+    {
+      "assunto": "Leis de newton",
+      "materia": "Física",
+      "idmateria": "4",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#6FA9BA",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hu8Ck0X.png",
+      "concluido": "10"
+    }
+    
+    ,
+    {
+      "assunto": "Hidrodinâmica ",
+      "materia": "Física",
+      "idmateria": "4",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#6FA9BA",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/hu8Ck0X.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Sistema solar",
+      "materia": "Geografia",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#BB8A51",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/yIccbGA.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Rochas",
+      "materia": "Geografia",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#BB8A51",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/yIccbGA.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Cartografia",
+      "materia": "Geografia",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#BB8A51",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/yIccbGA.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Clima",
+      "materia": "Geografia",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#BB8A51",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/yIccbGA.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Atmosfera",
+      "materia": "Geografia",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#BB8A51",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/yIccbGA.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Idade antiga",
+      "materia": "História",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#44B198",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/IMPKxuN.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Iidade média",
+      "materia": "História",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#44B198",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/IMPKxuN.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Reforma protestante",
+      "materia": "História",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#44B198",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/IMPKxuN.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Modernismo",
+      "materia": "História",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#44B198",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/IMPKxuN.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Primeira guerra",
+      "materia": "História",
+      "idmateria": "5",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#44B198",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/IMPKxuN.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Filosofia antiga",
+      "materia": "Filosofia",
+      "idmateria": "6",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#9F6B18",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/kXvPwuB.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Tomás de aquino ",
+      "materia": "Filosofia",
+      "idmateria": "6",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#9F6B18",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/kXvPwuB.png",
+      "concluido": "10"
+    }
+    ,
+    {
+      "assunto": "Nascimento do conhecimento ",
+      "materia": "Filosofia",
+      "idmateria": "6",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc id nisl fermentum interdum. Vivamus finibus justo luctus neque consectetur interdum. Sed semper mauris eget ligula tincidunt, quis efficitur ligula auctor. Maecenas vel posuere diam. Curabitur eu urna non mauris sollicitudin pharetra. Duis efficitur lorem a urna dapibus, nec auctor lectus tempus. Fusce porttitor, tellus sit amet varius luctus, risus mauris gravida elit, non aliquam justo diam non orci. Mauris et sodales enim. Curabitur lectus sapien, elementum vel convallis eu, congue ut lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "cor": "#9F6B18",
+      "cor2": "#B7D04D",
+      "pontuacao": "100",
+      "icone": "https://i.imgur.com/kXvPwuB.png",
+      "concluido": "10"
+    }
+    
+  
+  ]
+  

@@ -1,0 +1,55 @@
+.cadastroAula{
+    width: 100%;
+    background-color: #2C2C2E;
+    height: 90vh;
+    padding-bottom: 20px;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.checkbox{
+
+    width: 315px;
+    height: 62px;
+    background: #2C2C2E;
+    border: 1px solid #DCDCDC;
+    border-radius: 68px;
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+    padding-left: 20px;
+}
+.color{
+
+    width: 315px;
+    height: 62px;
+    background-color: transparent;
+    border: 0px;
+    border-radius: 68px;
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+    padding-left: 20px;
+}
+.checkbox-submit{
+    width: 340px;
+    height: 62px;
+    background: #7073A9;
+    border: 0px;
+    border-radius: 68px;
+    color: #292F3F;
+    font-size: 25px;
+    margin-top: 10px;
+    
+}
+.title{
+
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    font-size: 60px;
+    color: #fff;
+    margin-bottom: 20px;
+}
