@@ -21,11 +21,11 @@ export default function CadastroAula() {
         assunto: values.assunto, 
         materia: values.materia, 
         descricao: values.descricao,
-        pontuacao: values.pontuacao,
+        pontuacao: '',
         cor: values.cor,
-        cor2: values.cor2,
+        cor2: '',
         icone: values.icone,
-        concluido: values.concluido,
+        concluido: '0',
        
       
       })
@@ -38,13 +38,9 @@ export default function CadastroAula() {
         <input className='checkbox' placeholder='Assunto' name="assunto" onChange={handleaddValues}></input>
         <input className='checkbox' placeholder='Matéria' name="materia" onChange={handleaddValues}></input>
         <input className='checkbox' placeholder='Descrição' name="descricao" onChange={handleaddValues}></input>
-        <input className='checkbox' placeholder='Pontuação' name="pontuacao" onChange={handleaddValues}></input>
-        Cor #1
+        <text style={{color:'white'}}> Cor #1 </text>
         <input className='color' type={'color'} placeholder='Cor #1' name="cor" onChange={handleaddValues}></input>
-        Cor #2
-        <input className='color' type={'color'} placeholder='Cor #2' name="cor2" onChange={handleaddValues}></input>
         <input className='checkbox' placeholder='Icone (link)' name="icone" onChange={handleaddValues}></input>
-        <input className='checkbox' placeholder='Concluido %' name="concluido" onChange={handleaddValues}></input>
         <input className='checkbox-submit' type={"submit"} value={"Cadastrar aula"} onClick={handleClickButton}></input>
       </div>
     );

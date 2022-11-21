@@ -60,8 +60,8 @@ export default function Cadastro() {
     
     return (
       <div className='cadastroAula'>
-        <input name="nome" className='checkbox' placeholder='Nome' onChange={handleaddValues}></input>
-        <input name="email" type={'email'} className='checkbox' placeholder='E-mail' onChange={handleaddValues}></input>
+        <input name="nome" autocomplete="off" className='checkbox' placeholder='Nome' onChange={handleaddValues}></input>
+        <input name="email" autocomplete="off" type={'email'} className='checkbox' placeholder='E-mail' onChange={handleaddValues}></input>
         <input name="senha" type={'password'} className='checkbox' placeholder='Senha' onChange={handleaddValues}></input>
         <input type={"submit"} className='checkbox-submit' value={"Cadastrar"} onClick={handleClickButton}></input>
         <a href='/login' style={{textDecoration: 'none', color: '#7073A9'}}> Fazer login</a>  

@@ -1,13 +1,13 @@
 .cardrecomendados{
     min-width: 165px;
-height: 236px;
+height: 200px;
 max-width: 165px;
-height: 236px;
+height: 200px;
 
 background: #FFAB01;
 border-radius: 8px;
     flex-wrap: nowrap;
-    margin-right: 30px;
+    margin-right: 25px;
     padding-right: 10px;
     display: flex;
     flex-direction: column;    
@@ -15,12 +15,14 @@ border-radius: 8px;
     justify-content: space-around;
     cursor: pointer;
     margin-bottom: 20px;
+    padding-bottom: 10px
 }
 .cardsRecomendados{
     margin-top: 20px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 .aulaicone{
@@ -58,8 +60,9 @@ color: #E5E5EA;
 user-select: none;
 }
 
-.recente{
+.recomendados{
     margin: 20px;
+    width: 100vw;
 }
 .search{
    

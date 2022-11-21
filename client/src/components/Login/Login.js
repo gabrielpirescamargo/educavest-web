@@ -41,7 +41,7 @@ export default function Login() {
       }
     })
     if(login.includes(true)){
-      window.location.href ='/'
+      window.location.href ='/home'
     }
     else{
       alert('Dados incorretos!')
@@ -50,7 +50,7 @@ export default function Login() {
  
     return (
       <div className='cadastroAula'>
-        <input id='email' placeholder='E-mail' className='checkbox' onChange={(e) => setEmail(e.target.value)} name='email' type={'email'} ></input>
+        <input id='email' autocomplete="off" placeholder='E-mail' className='checkbox' onChange={(e) => setEmail(e.target.value)} name='email' type={'email'} ></input>
         <input id='senha' placeholder='Senha' className='checkbox' onChange={(e) => setSenha(e.target.value)} name='senha' type={'password'}></input>
         <input type={'submit'} className='checkbox-submit' onClick={compararUsuario} value={'Login'}></input>
         <a href='/cadastro' style={{textDecoration: 'none', color: '#7073A9'}}> Fazer cadastro</a>  

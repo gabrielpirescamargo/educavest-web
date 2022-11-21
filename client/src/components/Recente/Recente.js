@@ -173,11 +173,11 @@ export default function Recente() {
             <div className='horizontalrecente'>
               <div className='esquerda'>
                 <text className='aulaassunto'>{r.assunto}</text>
-                <Pie percentage={r.concluido} colour={r.cor2} fill={r.cor} />
+                {/* <Pie percentage={r.concluido} colour={r.cor2} fill={r.cor} /> */}
 
               </div>
               <div className='direita'>
-                <Pontos pontos={r.pontuacao} />
+                {/* <Pontos pontos={r.pontuacao} /> */}
                 <img className='aulaicone' src={r.icone}></img>
               </div>
             </div>
@@ -243,9 +243,7 @@ export default function Recente() {
                               </div>
                             </div>
 
-                            <div className='play' >
-                              play
-                            </div>
+                            
 
 
 

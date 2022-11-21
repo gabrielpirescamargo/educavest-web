@@ -2,6 +2,8 @@
     border-radius: 8px;
     min-width: 270px;
     min-height: 156px;
+    max-width: 270px;
+    max-height: 156px;
     
     flex-wrap: nowrap;
     margin-right: 30px;

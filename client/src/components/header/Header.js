@@ -14,7 +14,11 @@ useEffect(()  => {
 }, [JSON.parse(localStorage.getItem("usuarioAtual"))])
   
 
-     
+     const sair = (() => {
+      localStorage.setItem('usuarioAtual', JSON.stringify({}))
+      localStorage.setItem('recentes', JSON.stringify([]))
+      window.location.href = '/login'
+     })
       return (
 
         <div className='header'>
@@ -24,12 +28,17 @@ useEffect(()  => {
             </div>
             <div className='links'>
                 
-                <Fogo fogo={usuarioAtual.fogo}/>
+                {/* <Fogo fogo={usuarioAtual.fogo}/> */}
                 <Pontos pontos={usuarioAtual.pontos}/>
                 <div className='usuario'>
-                  <img src={usuarioAtual.foto} width={50}></img>
+                  <img 
+                  src={usuarioAtual.foto} 
+                  width={50}>
+                  </img>
                   <text className='usuarionome'>{usuarioAtual.nome}</text>
                 </div>
+                  <div style={{backgroundColor: '#FC5050', color: 'white', width: 50, textAlign: 'center', borderRadius: 20, justifyContent: 'center', alignItems: 'center', display:'flex', cursor:'pointer', marginLeft:10, fontWeight:'bold', height: 30}} onClick={sair} 
+>Sair</div>
                 
             </div>
             

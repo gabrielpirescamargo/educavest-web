@@ -138,7 +138,7 @@ export default function Recomendados() {
   })
   return (
 
-    <div className='recente'>
+    <div className='recomendados'>
       <div style={{ display: 'flex', alignItems: 'center' }}>
         <text className='introrecente'>TODOS OS ASSUNTOS</text>
         <input
@@ -146,8 +146,6 @@ export default function Recomendados() {
           placeholder='Pesquisar'
           value={pesquisa}
           onChange={alterar}
-          autoFocus
-          onFocus={alterar}
         ></input>
       </div>
 
@@ -172,7 +170,7 @@ export default function Recomendados() {
 
               <img className='aulaicone' src={r.icone}></img>
 
-              <Pontos pontos={r.pontuacao} />
+              {/* <Pontos pontos={r.pontuacao} /> */}
 
             </div>
 
@@ -193,7 +191,7 @@ export default function Recomendados() {
 
               <img className='aulaicone' src={r.icone}></img>
 
-              <Pontos pontos={r.pontuacao} />
+              {/* <Pontos pontos={r.pontuacao} /> */}
 
             </div>
         ))

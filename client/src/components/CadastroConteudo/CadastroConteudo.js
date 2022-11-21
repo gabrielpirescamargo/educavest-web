@@ -21,7 +21,7 @@ export default function CadastroConteudo() {
         materia: values.materia, 
         assunto: values.assunto, 
         nome: values.nome,
-        cor: values.cor,
+        cor: '',
         pontuacao: values.pontuacao,
         icone: values.icone,
         link: values.video,
@@ -38,7 +38,6 @@ export default function CadastroConteudo() {
         <input className='checkbox' placeholder='Matéria' name="materia" onChange={handleaddValues}></input>
         <input className='checkbox' placeholder='Nome' name="nome" onChange={handleaddValues}></input>
         <input className='checkbox' placeholder='Pontuação' name="pontuacao" onChange={handleaddValues}></input>
-        <input className='color' type={'color'} placeholder='Cor #1' name="cor" onChange={handleaddValues}></input>
         <input className='checkbox' placeholder='Icone (link)' name="icone" onChange={handleaddValues}></input>
         <input className='checkbox' placeholder='Video aula(link)' name="video" onChange={handleaddValues}></input>
         <input className='checkbox-submit' type={"submit"} value={"Cadastrar conteudo"} onClick={handleClickButton}></input>

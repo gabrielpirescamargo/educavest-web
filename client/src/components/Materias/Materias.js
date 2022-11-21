@@ -156,9 +156,7 @@ export default function Materias() {
                             </div>
                           </div>
 
-                          <div className='play'>
-                            play
-                          </div>
+                          
 
 
 
